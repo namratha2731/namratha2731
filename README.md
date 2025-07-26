@@ -69,11 +69,16 @@
 
 
 
+---
+
 ## 🌐 Let's Connect!
 
 Email: namrathaakshaya31@gmail.com  
 LinkedIn: [namratha-akshaya-090817274](https://www.linkedin.com/in/namratha-akshaya-090817274)  
-GitHub: [namratha2731](https://github.com/namratha2731)
+GitHub: [namratha2731](https://github.com/namratha2731)  
+Resume: [View My Resume]([https://github.com/your-username/your-repo/raw/main/Resume.pdf](https://github.com/namratha2731/namratha2731/raw/main/Namratha_Resume.pdf))
+
 ---
+
 
 Looking forward to connecting and collaborating on exciting projects! 🚀
