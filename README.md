@@ -1,6 +1,6 @@
 # Hi there, I'm Namratha Akshaya! 👋
 
-![Profile Banner](https://raw.githubusercontent.com/namratha2731/namratha2731/main/banner.png) <!-- Optional: Add your own banner image URL above or remove if not needed -->
+![Profile Banner](https://raw.githubusercontent.com/namratha2731/namratha2731/main/banner.png) <!-- Add your profile banner image URL here -->
 
 ✨ **Adaptable and detail-oriented Full-Stack Developer** with a passion for Data Science, Machine Learning, and Cybersecurity. I love building dynamic digital solutions and am committed to future-ready tech!
 
@@ -38,11 +38,11 @@
   Quantum-safe distributed authentication system with zero-knowledge consent, post-quantum cryptography, and functional encryption.  
   [View on GitHub](https://github.com/code-for-harisubramanian-books/qsdas_fe)
 
-- **Communication Screening Bot**  
-  AI-powered tool for automating candidate communication assessments at Resolv360.
-  
 - **Commercial Cleanser Sentiment Project**  
-  NLP-driven project decoding customer emotions and satisfaction for cleaning products.
+  Utilized NLP techniques to analyze consumer reviews for cleaning products, extracting key sentiment and emotional trends to inform business and product strategy.
+
+- **JobPilot – Interview Preparation System**  
+  A platform to help job seekers improve their interview skills with personalized mock interviews. Users can select specific roles to practice relevant questions, receive AI-generated feedback, and track performance to boost confidence and readiness for real interviews.
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## 🤩 Fun Facts
 
-> 🧩 I can solve a Rubik's Cube in under two minutes!
+> 🎨 My sketchbook is never far—I love illustrating characters and scenes inspired by everyday life!
 >
 > 🎵 I’m always up for learning new creative skills—recently started digital illustration.
 
@@ -70,6 +70,16 @@
 ---
 
 ## 🌐 Let's Connect!
+
+<p>
+  <a href="mailto:namrathaakshaya31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/namratha-akshaya-090817274"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/namratha2731"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+Looking forward to connecting and collaborating on exciting projects! 🚀
 
 <p>
   <a href="mailto:namrathaakshaya31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
