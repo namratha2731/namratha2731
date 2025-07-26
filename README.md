@@ -1,6 +1,5 @@
 # Hi there, I'm Namratha Akshaya! 👋
 
-![Profile Banner](https://raw.githubusercontent.com/namratha2731/namratha2731/main/banner.png) <!-- Add your profile banner image URL here -->
 
 ✨ **Adaptable and detail-oriented Full-Stack Developer** with a passion for Data Science, Machine Learning, and Cybersecurity. I love building dynamic digital solutions and am committed to future-ready tech!
 
@@ -69,19 +68,13 @@
 ---
 
 ## 🌐 Let's Connect!
+---
 
-<p>
-  <a href="mailto:namrathaakshaya31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/namratha-akshaya-090817274">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/namratha2731">
-    <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## 🌐 Let's Connect!
 
+Email: namrathaakshaya31@gmail.com  
+LinkedIn: [namratha-akshaya-090817274](https://www.linkedin.com/in/namratha-akshaya-090817274)  
+GitHub: [namratha2731](https://github.com/namratha2731)
 ---
 
 Looking forward to connecting and collaborating on exciting projects! 🚀
