@@ -15,8 +15,7 @@
 
 ## 🏆 Badges & Stats
 
-![Top Language](https://img.shields.io/github/languages/top/namratha2731/awesome-project?style=flat&color=informational)
-![Profile Views](https://komarev.com/ghpvc/?username=namratha2731&color=blue)
+<!-- Example badges, updated to remove unwanted ones -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=namratha2731)
 
 ---
@@ -27,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
 
-- **Web Development:** Frontend, Responsive Design, UI/UX Principles
+- **Web Development:** Frontend, Responsive Design, UI/UX Principles  
 - **Soft Skills:** Teamwork, Adaptability, Leadership, Time Management, Communication
 
 ---
@@ -48,16 +47,16 @@
 
 ## 🎨 Hobbies & Interests
 
-- 🖌️ Drawing & creative arts
-- ✈️ Traveling & exploring cultures
+- 🖌️ Drawing & creative arts  
+- ✈️ Traveling & exploring cultures  
 - 💡 Working on creative projects outside coding
 
 ---
 
 ## 🤩 Fun Facts
 
-> 🎨 My sketchbook is never far—I love illustrating characters and scenes inspired by everyday life!
->
+> 🎨 My sketchbook is never far—I love illustrating characters and scenes inspired by everyday life!  
+>  
 > 🎵 I’m always up for learning new creative skills—recently started digital illustration.
 
 ---
@@ -72,19 +71,15 @@
 ## 🌐 Let's Connect!
 
 <p>
-  <a href="mailto:namrathaakshaya31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/namratha-akshaya-090817274"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/namratha2731"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-Looking forward to connecting and collaborating on exciting projects! 🚀
-
-<p>
-  <a href="mailto:namrathaakshaya31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/namratha-akshaya-090817274"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/namratha2731"><img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:namrathaakshaya31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/namratha-akshaya-090817274">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/namratha2731">
+    <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
