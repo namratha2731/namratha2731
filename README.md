@@ -1,7 +1,7 @@
 # Hi there, I'm Namratha Akshaya! 👋
 
 
-✨ **Adaptable and detail-oriented Full-Stack Developer** with a passion for Data Science, Machine Learning, and Cybersecurity. I love building dynamic digital solutions and am committed to future-ready tech!
+✨ **Adaptable and detail-oriented Full-Stack Developer** with a passion for Data Science, Machine Learning, Cybersecurity and keen interest in AI. I love building dynamic digital solutions and am committed to future-ready tech!
 
 ---
 
