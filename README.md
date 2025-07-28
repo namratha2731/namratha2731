@@ -1,20 +1,18 @@
 # Hi there, I'm Namratha Akshaya! 👋
 
-
-✨ **Adaptable and detail-oriented Full-Stack Developer** with a passion for Data Science, Machine Learning, Cybersecurity and keen interest in AI. I love building dynamic digital solutions and am committed to future-ready tech!
+✨ **Adaptable and detail-oriented Full-Stack Developer** with a passion for Data Science, Machine Learning, Cybersecurity, and keen interest in AI. I love building dynamic digital solutions and am committed to future-ready tech!
 
 ---
 
 ## 🚀 About Me
 
-- 👩‍💻 Currently pursuing a B.Tech in Computer Science at Amrita Vishwa Vidyapeetam, Bengaluru _(Sep 2022 - Jun 2026)_.
+- 👩‍💻 Currently pursuing a B.Tech in Computer Science at Amrita Vishwa Vidyapeetham, Bengaluru _(Sep 2022 - Jun 2026)_.
 - 🌟 Always eager to learn new technologies and collaborate on exciting projects.
 
 ---
 
 ## 🏆 Badges & Stats
 
-<!-- Example badges, updated to remove unwanted ones -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=namratha2731)
 
 ---
@@ -55,7 +53,7 @@
 ## 🤩 Fun Facts
 
 > 🎨 My sketchbook is never far—I love illustrating characters and scenes inspired by everyday life!  
->  
+>
 > 🎵 I’m always up for learning new creative skills—recently started digital illustration.
 
 ---
@@ -67,16 +65,20 @@
 
 ---
 
+## 🌐 Let's Connect!
 
+- Email: namrathaakshaya31@gmail.com  
+- LinkedIn: [namratha-akshaya-090817274](https://www.linkedin.com/in/namratha-akshaya-090817274)  
+- GitHub: [namratha2731](https://github.com/namratha2731)  
+- Resume: [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya%20-%20Resume.pdf)
 
 ---
 
-## 🌐 Let's Connect!
+## 🖥️ Portfolio
 
-Email: namrathaakshaya31@gmail.com  
-LinkedIn: [namratha-akshaya-090817274](https://www.linkedin.com/in/namratha-akshaya-090817274)  
-GitHub: [namratha2731](https://github.com/namratha2731)  
-Resume: [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya%20-%20Resume.pdf)
+**This is my official portfolio website:**  
+➡️ [namrathaportfolio.vercel.app](https://namrathaportfolio.vercel.app/#)
 
+---
 
 Looking forward to connecting and collaborating on exciting projects! 🚀
