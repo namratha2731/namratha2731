@@ -70,7 +70,7 @@
 - Email: namrathaakshaya31@gmail.com  
 - LinkedIn: [namratha-akshaya-090817274](https://www.linkedin.com/in/namratha-akshaya-090817274)  
 - GitHub: [namratha2731](https://github.com/namratha2731)  
-- Resume: [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya%20-%20Resume.pdf)
+- Resume: [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya.pdf)
 
 ---
 
