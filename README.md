@@ -55,8 +55,7 @@ Adaptable and detail-oriented engineer passionate about Data Science, Machine Le
   Hybrid transformer framework combining aspect-based sentiment analysis (ABSA), EmotionBERT, HBM, and SERVQUAL models for consumer cleaning product review analytics.  
   [View Publication (DOI: 10.1109/OJCS.2026.3684907)](https://doi.org/10.1109/OJCS.2026.3684907)
 
-- **🤖 JobPilot / Resolv360 AI Candidate Screening System**  
-  Optimized an AI-driven Communication Screening Bot using Generative AI and Linux to automate candidate evaluation, streamline recruitment, and assess candidate communication skills.
+
 
 ---
 
