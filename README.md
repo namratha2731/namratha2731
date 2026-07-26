@@ -1,6 +1,6 @@
 # Hi there, I'm Namratha Akshaya! 👋
 
-✨ **Founder of CliniLocum & CliniSuite | Analyst Trainee @ BNY Mellon (Chennai) | 8x Published Researcher (1 IEEE Journal & 7 Conference Papers) | Full-Stack Developer & AI/ML Engineer**
+✨ **Founder of CliniLocum & CliniSuite | Analyst Trainee @ BNY Mellon | 8x Published Researcher (1 IEEE Journal & 7 Conference Papers) | Full-Stack Developer & AI/ML Engineer**
 
 Adaptable and detail-oriented engineer passionate about crafting full-stack applications, Data Science, Machine Learning, Cybersecurity, and AI innovations. Experienced in building real-time healthcare SaaS applications, enterprise software systems, and publishing peer-reviewed research!
 
