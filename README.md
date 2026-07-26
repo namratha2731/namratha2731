@@ -105,11 +105,11 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
 
 ---
 
-## 📊 GitHub Stats
-
-![Namratha's GitHub stats](https://github-readme-stats.vercel.app/api?username=namratha2731&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namratha2731&layout=compact&theme=tokyonight)
-
+## 📊 GitHub Stats & Overview
+<p left>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=namratha2731&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Namratha's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namratha2731&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" />
+</p>
 ---
 
 ## 🌐 Let's Connect!
