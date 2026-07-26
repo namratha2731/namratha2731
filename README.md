@@ -22,6 +22,22 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
 
 ---
 
+## 💼 Work Experience
+
+- 🏢 **Analyst Trainee** — **BNY Mellon (Bank of New York Mellon)**  
+  _August 2026 – Present | Chennai, India (On-site)_  
+  Working on enterprise software engineering, financial technology systems, and data analytics workflows.
+
+- 🧬 **AI Intern** — **Sravathi AI Technology Pvt Ltd**  
+  _Jan 2026 – June 2026 | Bengaluru, India (On-site)_  
+  Applied machine learning, deep learning models, and LLMs for automated drug discovery, chemical analysis, and data-driven research.
+
+- 🤖 **Software Engineer Intern** — **Resolv360 Consulting Services**  
+  _June 2025 – July 2025 | Bengaluru, India (Remote)_  
+  Optimized an AI-driven Communication Screening Bot using Generative AI and Linux for candidate evaluation and automated recruitment.
+
+---
+
 ## 🛠️ Skills & Technologies
 
 **Languages & Frameworks:**  
@@ -33,24 +49,7 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
 
 ---
 
-## 📜 Certifications & Professional Training
-
-- 🤖 **Introduction to Modern AI** — *Cisco Networking Academy (2026)*  
-  Foundational concepts of AI/ML, computer vision, machine translation, LLM prompting techniques, chatbot workflows, and multimodal systems.
-- ☁️ **Cloud Technologies** — *Infosys Springboard (2026)*  
-  IaaS, PaaS, SaaS, virtualization models, cloud infrastructure architecture, and scalable application deployment.
-- ⚡ **Big Data - Data Processing Frameworks (Kafka, Storm & Flink)** — *Infosys Springboard (2026)*  
-  Distributed real-time stream processing, event-driven data streaming, Apache Kafka message queues, and big data pipelines.
-- 💻 **The Complete Full-Stack Web Development Bootcamp** — *Web Architecture (2024)*  
-  Full-stack web application development, React, Node.js, databases, and responsive UI design.
-- 📊 **Hands-On Data Visualization with Microsoft Power BI** — *Microsoft / Data Analytics (2024)*  
-  Interactive business intelligence dashboards, DAX queries, Power BI data modeling, and visual analytics.
-- 🛡️ **AWS Academy Cloud Foundations** — *Amazon Web Services (2024)*  
-  AWS core infrastructure, IAM security, EC2 computing, S3 storage, and cloud architecture fundamentals.
-
----
-
-## 🌟 Featured Projects & AI Frameworks
+## 🌟 Featured Projects Worked
 
 - **🏥 CliniLocum – Real-Time Healthcare Locum Duty Staffing Platform**  
   Dedicated dual-sided platform bridging healthcare facilities and medical professionals. Features Live GPS mapping, 100% dispute-free Geofenced OTP check-ins, cliniCopilot AI, and smart rota calendar auto-sync.  
@@ -72,6 +71,8 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
   Hybrid transformer framework combining aspect-based sentiment analysis (ABSA), EmotionBERT, HBM, and SERVQUAL models for consumer cleaning product review analytics.  
   [View Publication (DOI: 10.1109/OJCS.2026.3684907)](https://doi.org/10.1109/OJCS.2026.3684907)
 
+
+
 ---
 
 ## 📜 Peer-Reviewed Research Publications (8x)
@@ -87,19 +88,20 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
 
 ---
 
-## 💼 Work Experience
+## 📜 Certifications & Professional Training
 
-- 🏢 **Analyst Trainee** — **BNY Mellon (Bank of New York Mellon)**  
-  _August 2026 – Present | Chennai, India (On-site)_  
-  Working on enterprise software engineering, financial technology systems, and data analytics workflows.
-
-- 🧬 **AI Intern** — **Sravathi AI Technology Pvt Ltd**  
-  _Jan 2026 – June 2026 | Bengaluru, India (On-site)_  
-  Applied machine learning, deep learning models, and LLMs for automated drug discovery, chemical analysis, and data-driven research.
-
-- 🤖 **Software Engineer Intern** — **Resolv360 Consulting Services**  
-  _June 2025 – July 2025 | Bengaluru, India (Remote)_  
-  Optimized an AI-driven Communication Screening Bot using Generative AI and Linux for candidate evaluation and automated recruitment.
+- 🤖 **Introduction to Modern AI** — *Cisco Networking Academy (2026)*  
+  Foundational concepts of AI/ML, computer vision, machine translation, LLM prompting techniques, chatbot workflows, and multimodal systems.
+- ☁️ **Cloud Technologies** — *Infosys Springboard (2026)*  
+  IaaS, PaaS, SaaS, virtualization models, cloud infrastructure architecture, and scalable application deployment.
+- ⚡ **Big Data - Data Processing Frameworks (Kafka, Storm & Flink)** — *Infosys Springboard (2026)*  
+  Distributed real-time stream processing, event-driven data streaming, Apache Kafka message queues, and big data pipelines.
+- 💻 **The Complete Full-Stack Web Development Bootcamp** — *Web Architecture (2024)*  
+  Full-stack web application development, React, Node.js, databases, and responsive UI design.
+- 📊 **Hands-On Data Visualization with Microsoft Power BI** — *Microsoft / Data Analytics (2024)*  
+  Interactive business intelligence dashboards, DAX queries, Power BI data modeling, and visual analytics.
+- 🛡️ **AWS Academy Cloud Foundations** — *Amazon Web Services (2024)*  
+  AWS core infrastructure, IAM security, EC2 computing, S3 storage, and cloud architecture fundamentals.
 
 ---
 
@@ -119,15 +121,6 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
 - **Resume:** [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya.pdf)
 
 ---
-
-## 🖥️ Portfolio
-
-**This is my official portfolio website:**  
-➡️ [clinilocum.com](https://clinilocum.com) | [clinisuite.xyz](https://clinisuite.xyz) | [namrathaportfolio.vercel.app](https://namrathaportfolio.vercel.app/#)
-
----
-
-Looking forward to connecting and collaborating on exciting projects! 🚀
 
 ## 🖥️ Portfolio
 
