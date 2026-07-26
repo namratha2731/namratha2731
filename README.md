@@ -118,7 +118,7 @@ Adaptable and detail-oriented engineer passionate about crafting full-stack appl
 - **Location:** Chennai, India  
 - **LinkedIn:** [namratha-akshaya-090817274](https://www.linkedin.com/in/namratha-akshaya-090817274)  
 - **GitHub:** [namratha2731](https://github.com/namratha2731)  
-- **Resume:** [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya.pdf)
+- **Resume:** [View My Resume](https://github.com/namratha2731/namratha2731/raw/main/Namratha%20Akshaya%20-%20Resume%20(UPDATED%2016th%20july).pdf)
 
 ---
 
